@@ -1,0 +1,11 @@
+{
+    "aps" : {
+        
+            "alert" : "SwiftlyRush Bank ",
+            "body" : "You have some more money!",
+            "sound" : "default",
+            "category" :"cat_id"
+        
+    },
+    "Simulator Target Bundle": "com.-NetworkManagerSwift.Notification"
+}
